@@ -1,0 +1,35 @@
+.head {
+    width: 100%;
+    background-color: rgba(248, 96, 253, 0);
+    
+}
+
+.men{
+    margin: 0px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.log{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+}
+
+.men p{
+    
+    font-weight: 50;
+    padding: 5px;
+    
+    
+}
+
+.image{
+    max-width: 50%;
+    max-height: 50%;
+}

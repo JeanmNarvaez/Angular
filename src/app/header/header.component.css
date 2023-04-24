@@ -1,0 +1,26 @@
+.header {
+    width: 100%;
+    background-color: rgba(202, 0, 0, 0.918);
+    border-bottom: solid 10px rgb(100, 100, 100);
+    
+}
+
+.menu{
+    margin: 0px;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 5rem;
+    
+}
+
+.menu li{
+    font-weight: 50;
+    padding: 5px;
+    text-align: center;
+}
